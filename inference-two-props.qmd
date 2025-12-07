@@ -525,7 +525,7 @@ Check whether we can model the difference in sample proportions using the normal
 
 ------------------------------------------------------------------------
 
-We first check for independence: since this is a randomized experiment, it seems reasonable to assume that the observations are idependent.
+We first check for independence: since this is a randomized experiment, it seems reasonable to assume that the observations are independent.
 Next, we check the success-failure condition for each group.
 We have at least 10 successes and 10 failures in each experiment arm (11, 14, 39, 26), so this condition is also satisfied.
 With both conditions satisfied, the difference in sample proportions can be reasonably modeled using a normal distribution for these data.
